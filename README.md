@@ -1,5 +1,5 @@
 # YOLOR-DEEPSORT-Object-Tracking
-
+diretly take the ipynb file ie. google colab for work
 
 # References
 1. YOLOR for Object Detection https://github.com/WongKinYiu/yolor
