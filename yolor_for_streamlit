@@ -400,3 +400,4 @@ def load_yolor_and_process_each_frame(vid_name, enable_GPU, confidence, assigned
 
     print('Done. (%.3fs)' % (time.time() - t0))
     cv2.destroyAllWindows()
+#
